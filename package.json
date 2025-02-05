@@ -1,3 +1,12 @@
+//package.json
+{
+    ...
+    "scripts": {
+        ...
+         "test": "vitest"
+    }
+}
+
 {
   "name": "atlas-music-player",
   "private": true,
@@ -23,6 +32,7 @@
     "eslint": "8.57.0",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.6",
+    "msw": "2.7.0",
     "typescript": "5.5.4",
     "vite": "5.4.14"
   }
